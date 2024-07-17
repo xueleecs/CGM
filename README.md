@@ -1,8 +1,10 @@
 # CGM
 
-Prepare work
+#Prepare work
 git clone
+
 conda create -n CGM python==3.7.12
+
 pip install -r requirements.txt
 
 # 1 For protein embeding 
